@@ -1,0 +1,5 @@
+SECRET_KEY = "Vlp1kE206Xcgeqn04MS5b5tjhjAc1eibvmldYAzrcvHUjxAh8DkoztFuWKEWLrN7u5YyH1xfJjdOwopQxvs0uPItSZbei3sa"
+PASSWORD_SALT = "GJYxKlpGUDPLJzmTUj0VrmGJannb2jSt"
+
+JWT_SECRET = "Vlp1kE206Xcgeqn04MS5b5tjhjAc1eibvmldYAzrcvHUjxAh8DkoztFuWKEWLrN7u5YyH1xfJjdOwopQxvs0uPItSZbei3sa"
+JWT_ALGORITHM  = 'HS256'
